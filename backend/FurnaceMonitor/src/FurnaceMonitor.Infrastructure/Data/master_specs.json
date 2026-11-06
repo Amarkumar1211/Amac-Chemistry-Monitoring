@@ -1,0 +1,418 @@
+[
+  {
+    "PartName": "HOUSING FRONT",
+    "PartNo": "3932",
+    "Grade": "ALSI7MG",
+    "MaxSpecs": {
+      "Si": 7.3,
+      "Fe": 0.6,
+      "Cu": 0.25,
+      "Mn": 0.35,
+      "Mg": 0.43,
+      "Zn": 0.35,
+      "Ti": 15,
+      "Pb": 0.05,
+      "Sn": 0.05,
+      "Ni": 0.05,
+      "Cr": 0.05
+    }
+  },
+  {
+    "PartName": "TIMING GEAR",
+    "PartNo": "7W 3494",
+    "Grade": "ALSI7MG",
+    "MaxSpecs": {
+      "Si": 7.3,
+      "Fe": 0.6,
+      "Cu": 0.25,
+      "Mn": 0.35,
+      "Mg": 0.45,
+      "Zn": 0.35,
+      "Ti": 0.25,
+      "Pb": 0.05,
+      "Sn": 0.05,
+      "Ni": 0.05,
+      "Cr": 0.05
+    }
+  },
+  {
+    "PartName": "BASE FUEL FILTER",
+    "PartNo": "3116435",
+    "Grade": "ALSI7MG",
+    "MaxSpecs": {
+      "Si": 7.3,
+      "Fe": 0.6,
+      "Cu": 0.25,
+      "Mn": 0.35,
+      "Mg": 0.43,
+      "Zn": 0.35,
+      "Ti": 15,
+      "Pb": 0.05,
+      "Sn": 0.05,
+      "Ni": 0.05,
+      "Cr": 0.05
+    }
+  },
+  {
+    "PartName": "9Y OIL PAN",
+    "PartNo": "9635",
+    "Grade": "ALSI7MG",
+    "MaxSpecs": {
+      "Si": 7.5,
+      "Fe": 0.6,
+      "Cu": 0.25,
+      "Mn": 0.43,
+      "Mg": 0.45,
+      "Zn": 15,
+      "Ti": 0.25,
+      "Pb": 0.05,
+      "Sn": 0.05,
+      "Ni": 0.05,
+      "Cr": 0.05
+    }
+  },
+  {
+    "PartName": "452 OIL PAN",
+    "PartNo": "6791",
+    "Grade": "ALSI7MG",
+    "MaxSpecs": {
+      "Si": 7.5,
+      "Fe": 0.6,
+      "Cu": 0.25,
+      "Mn": 0.43,
+      "Mg": 0.45,
+      "Zn": 15,
+      "Ti": 0.25,
+      "Pb": 0.05,
+      "Sn": 0.05,
+      "Ni": 0.05,
+      "Cr": 0.05
+    }
+  },
+  {
+    "PartName": "150 OIL PAN",
+    "PartNo": "4637",
+    "Grade": "ALSI7MG",
+    "MaxSpecs": {
+      "Si": 7.5,
+      "Fe": 0.6,
+      "Cu": 0.25,
+      "Mn": 0.43,
+      "Mg": 0.45,
+      "Zn": 15,
+      "Sr": 0.05,
+      "Pb": 0.05,
+      "Sn": 0.05,
+      "Ni": 0.05
+    }
+  },
+  {
+    "PartName": "HOUSING AFTER COOLER",
+    "PartNo": "8098",
+    "Grade": "ALSI7MG",
+    "MaxSpecs": {
+      "Si": 7.3,
+      "Mg": 0.43,
+      "Ti": 15
+    }
+  },
+  {
+    "PartName": "BASE AS O FILTER",
+    "PartNo": "9Y 7419",
+    "Grade": "ALSI7MG",
+    "MaxSpecs": {
+      "Si": 7.5,
+      "Fe": 0.6,
+      "Cu": 0.25,
+      "Mn": 0.43,
+      "Mg": 0.45,
+      "Zn": 15,
+      "Ti": 0.25,
+      "Pb": 0.05,
+      "Sn": 0.05,
+      "Ni": 0.05,
+      "Cr": 0.05
+    }
+  },
+  {
+    "PartName": "OIL PAN",
+    "PartNo": "8000",
+    "Grade": "ALSI7MG",
+    "MaxSpecs": {
+      "Si": 7.5,
+      "Fe": 0.6,
+      "Cu": 0.25,
+      "Mn": 0.43,
+      "Mg": 0.45,
+      "Zn": 15,
+      "Ti": 0.25,
+      "Pb": 0.05,
+      "Sn": 0.05,
+      "Ni": 0.05,
+      "Cr": 0.05
+    }
+  },
+  {
+    "PartName": "ELBOW INTAKE",
+    "PartNo": "6759",
+    "Grade": "ALSI7MG",
+    "MaxSpecs": {
+      "Si": 7.3,
+      "Fe": 0.6,
+      "Cu": 0.25,
+      "Mn": 0.35,
+      "Mg": 0.43,
+      "Zn": 0.35,
+      "Ti": 15,
+      "Pb": 0.05,
+      "Sn": 0.05,
+      "Ni": 0.05,
+      "Cr": 0.05
+    }
+  },
+  {
+    "PartName": "ELBOW AIR",
+    "PartNo": "7978",
+    "Grade": "ALSI7MG",
+    "MaxSpecs": {
+      "Si": 7.3,
+      "Fe": 0.6,
+      "Cu": 0.25,
+      "Mn": 0.35,
+      "Mg": 0.43,
+      "Zn": 0.35,
+      "Ti": 15,
+      "Pb": 0.05,
+      "Sn": 0.05,
+      "Ni": 0.05,
+      "Cr": 0.05
+    }
+  },
+  {
+    "PartName": "INLET MANIFOLD",
+    "PartNo": "1998",
+    "Grade": "ALSI7MG",
+    "MaxSpecs": {
+      "Si": 7.3,
+      "Fe": 0.6,
+      "Cu": 0.25,
+      "Mn": 0.35,
+      "Mg": 0.43,
+      "Zn": 0.35,
+      "Ti": 15,
+      "Sr": 0.025,
+      "Pb": 0.05,
+      "Sn": 0.05,
+      "Ni": 0.05
+    }
+  },
+  {
+    "PartName": "COVER AFTER COOLER",
+    "PartNo": "8099",
+    "Grade": "ALSI7MG",
+    "MaxSpecs": {
+      "Si": 7.3,
+      "Mg": 0.43,
+      "Ti": 15,
+      "Sr": 0.025
+    }
+  },
+  {
+    "PartName": "BASE OIL FILTER",
+    "PartNo": "7579",
+    "Grade": "ALSI7MG",
+    "MaxSpecs": {
+      "Si": 7.3,
+      "Fe": 0.6,
+      "Cu": 0.25,
+      "Mn": 0.35,
+      "Mg": 0.43,
+      "Zn": 0.35,
+      "Ti": 15,
+      "Sr": 0.025,
+      "Pb": 0.05,
+      "Sn": 0.05,
+      "Ni": 0.05,
+      "Cr": 0.05
+    }
+  },
+  {
+    "PartName": "HOUSING AFTER COOLER",
+    "PartNo": "4N 8472",
+    "Grade": "ALSI7MG",
+    "MaxSpecs": {
+      "Si": 7.5,
+      "Fe": 0.6,
+      "Cu": 0.025,
+      "Mn": 0.35,
+      "Mg": 0.45,
+      "Zn": 0.35,
+      "Ti": 0.25,
+      "Pb": 0.05,
+      "Sn": 0.05,
+      "Ni": 0.05,
+      "Cr": 0.05
+    }
+  },
+  {
+    "PartName": "PIPE AIR",
+    "PartNo": "5630",
+    "Grade": "ALSI7MG",
+    "MaxSpecs": {
+      "Si": 7.3,
+      "Fe": 0.6,
+      "Cu": 0.25,
+      "Mn": 0.35,
+      "Mg": 0.43,
+      "Zn": 0.35,
+      "Ti": 15,
+      "Sr": 0.025,
+      "Pb": 0.05,
+      "Sn": 0.05,
+      "Ni": 0.05,
+      "Cr": 0.05
+    }
+  },
+  {
+    "PartName": "PIPE AIR",
+    "PartNo": "1757",
+    "Grade": "ALSI7MG",
+    "MaxSpecs": {
+      "Si": 7.3,
+      "Fe": 0.6,
+      "Cu": 0.25,
+      "Mn": 0.35,
+      "Mg": 0.43,
+      "Zn": 0.35,
+      "Ti": 15,
+      "Sr": 0.025,
+      "Pb": 0.05,
+      "Sn": 0.05,
+      "Ni": 0.05,
+      "Cr": 0.05
+    }
+  },
+  {
+    "PartName": "DUCT AIR 9244",
+    "PartNo": "9245",
+    "Grade": "ALSI8CU3",
+    "MaxSpecs": {
+      "Mg": 0.38,
+      "Ti": 0.15
+    }
+  },
+  {
+    "PartName": "DUCT AIR CLEANER",
+    "PartNo": "9295",
+    "Grade": "ALSI8CU3",
+    "MaxSpecs": {
+      "Si": 10,
+      "Fe": 1.2,
+      "Cu": 4,
+      "Mn": 0.8,
+      "Mg": 0.38,
+      "Zn": 1,
+      "Ti": 0.15,
+      "Pb": 0.05,
+      "Sn": 0.05,
+      "Ni": 0.5,
+      "Cr": 0.05
+    }
+  },
+  {
+    "PartName": "ADAPTOR",
+    "PartNo": "2763",
+    "Grade": "ALSI8CU3",
+    "MaxSpecs": {
+      "Si": 10,
+      "Fe": 1.2,
+      "Cu": 4,
+      "Mn": 0.8,
+      "Mg": 0.5,
+      "Zn": 1,
+      "Ti": 0.25,
+      "Pb": 0.05,
+      "Sn": 0.05,
+      "Ni": 0.5,
+      "Cr": 0.05
+    }
+  },
+  {
+    "PartName": "1W OIL PAN",
+    "PartNo": "9113",
+    "Grade": "ALSI8CU3",
+    "MaxSpecs": {
+      "Si": 10,
+      "Fe": 1.2,
+      "Cu": 4,
+      "Mn": 0.8,
+      "Mg": 0.38,
+      "Zn": 1,
+      "Ti": 0.15,
+      "Pb": 0.05,
+      "Sn": 0.05,
+      "Ni": 0.5,
+      "Cr": 0.05
+    }
+  },
+  {
+    "PartName": "OIL PAN",
+    "PartNo": "6184",
+    "Grade": "ALSI8CU3",
+    "MaxSpecs": {
+      "Si": 10,
+      "Fe": 1.2,
+      "Cu": 4,
+      "Mn": 0.8,
+      "Mg": 0.38,
+      "Zn": 1,
+      "Ti": 0.15,
+      "Pb": 0.05,
+      "Sn": 0.05,
+      "Ni": 0.5,
+      "Cr": 0.05
+    }
+  },
+  {
+    "PartName": "PIPE AIR",
+    "PartNo": "2544",
+    "Grade": "ALSI12",
+    "MaxSpecs": {
+      "Zn": 0.13
+    }
+  },
+  {
+    "PartName": "PIPE AIR",
+    "PartNo": "3009",
+    "Grade": "ALSI12",
+    "MaxSpecs": {
+      "Zn": 0.13
+    }
+  },
+  {
+    "PartName": "TMC",
+    "PartNo": "953",
+    "Grade": "AC2A",
+    "MaxSpecs": {
+      "Si": 4.2,
+      "Fe": 0.24,
+      "Cu": 0.145,
+      "Mn": 0.015,
+      "Mg": 0.25,
+      "Zn": 0.55,
+      "Ti": 0.2,
+      "Pb": 0.15,
+      "Sn": 0.05,
+      "Ni": 0.3,
+      "Cr": 0.15
+    }
+  },
+  {
+    "PartName": "CMC",
+    "PartNo": "940",
+    "Grade": "AC2A",
+    "MaxSpecs": {
+      "Si": 0.015
+    }
+  }
+]

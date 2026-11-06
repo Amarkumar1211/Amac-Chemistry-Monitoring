@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" fill="none">
+  <defs>
+    <linearGradient id="chemGrad" x1="8" y1="8" x2="56" y2="56" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#2563eb" />
+      <stop offset="100%" stop-color="#06b6d4" />
+    </linearGradient>
+    <linearGradient id="liquidGrad" x1="16" y1="36" x2="48" y2="52" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#06b6d4" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#3b82f6" stop-opacity="0.9" />
+    </linearGradient>
+  </defs>
+  <!-- Modern Erlenmeyer Flask Body -->
+  <path d="M28 10V22L14.4 46.4C13.2 48.6 14.8 51.5 17.4 51.5H46.6C49.2 51.5 50.8 48.6 49.6 46.4L36 22V10H40C40.6 10 41 9.6 41 9C41 8.4 40.6 8 40 8H24C23.4 8 23 8.4 23 9C23 9.6 23.4 10 24 10H28Z" stroke="url(#chemGrad)" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Liquid fill -->
+  <path d="M18.8 44.5L25 34C28 35.5 32 35.5 35 34C38 32.5 42 33.5 45.2 44.5H18.8Z" fill="url(#liquidGrad)"/>
+  <!-- Bubbles -->
+  <circle cx="28" cy="42" r="2" fill="#ffffff" fill-opacity="0.8"/>
+  <circle cx="36" cy="39" r="1.5" fill="#ffffff" fill-opacity="0.8"/>
+  <circle cx="32" cy="46" r="1.8" fill="#ffffff" fill-opacity="0.7"/>
+</svg>
